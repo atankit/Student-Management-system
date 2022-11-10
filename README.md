@@ -5,7 +5,7 @@ Our Web Application is Student Management System where you can view students, cr
 Add Student ----->
 ![Screenshot (91)](https://user-images.githubusercontent.com/102401268/201025568-5e315b28-4352-43be-9ad9-fc5307244c32.png)
 
-View all Students----->
+View all **student**----->
 ![Screenshot (95)](https://user-images.githubusercontent.com/102401268/201026209-da06350e-604c-431d-94da-368c7f97e820.png)
 
 Update Student---->
